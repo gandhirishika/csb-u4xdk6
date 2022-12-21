@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gandhirishika.github.io/csb-u4xdk6/static/css/main.e8de66ac.chunk.css",
+    "main.js": "https://gandhirishika.github.io/csb-u4xdk6/static/js/main.a3918a11.chunk.js",
+    "main.js.map": "https://gandhirishika.github.io/csb-u4xdk6/static/js/main.a3918a11.chunk.js.map",
+    "runtime-main.js": "https://gandhirishika.github.io/csb-u4xdk6/static/js/runtime-main.1f5a5caa.js",
+    "runtime-main.js.map": "https://gandhirishika.github.io/csb-u4xdk6/static/js/runtime-main.1f5a5caa.js.map",
+    "static/js/2.d28f2118.chunk.js": "https://gandhirishika.github.io/csb-u4xdk6/static/js/2.d28f2118.chunk.js",
+    "static/js/2.d28f2118.chunk.js.map": "https://gandhirishika.github.io/csb-u4xdk6/static/js/2.d28f2118.chunk.js.map",
+    "index.html": "https://gandhirishika.github.io/csb-u4xdk6/index.html",
+    "static/css/main.e8de66ac.chunk.css.map": "https://gandhirishika.github.io/csb-u4xdk6/static/css/main.e8de66ac.chunk.css.map",
+    "static/js/2.d28f2118.chunk.js.LICENSE.txt": "https://gandhirishika.github.io/csb-u4xdk6/static/js/2.d28f2118.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f5a5caa.js",
+    "static/js/2.d28f2118.chunk.js",
+    "static/css/main.e8de66ac.chunk.css",
+    "static/js/main.a3918a11.chunk.js"
+  ]
+}
